@@ -1,7 +1,7 @@
 # zutilo310.mod
 Modded version of Zutilo 3.10 xpi file
 
-In Zotero, on `copy select item links` instead of the former `zotero://select/library/items/<ID>, `zotero://open-pdf/library/items/<ID>?page=` is copied to clipboard.  
+In Zotero, on `copy select item links` instead of the former `zotero://select/library/items/<ID>`, `zotero://open-pdf/library/items/<ID>?page=` is copied to clipboard.  
 
 ## Source
 
