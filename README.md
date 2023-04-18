@@ -8,3 +8,8 @@ In Zotero, on `copy select item links` instead of the former `zotero://select/li
 
 xpi mod file created based on 
 - https://github.com/wshanks/Zutilo/issues/182#issuecomment-794720980
+
+## How to use it in Obsidian
+
+See here:
+https://forum.obsidian.md/t/zotero-add-on-zutilo-modded-version-gives-us-the-ability-to-open-pdfs-from-obsidian/58265
